@@ -1,4 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iceCola7&show_icons=true&include_all_commits=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
+<div align="right" style="display:flex; flex-direction:row; justify-content:space-around;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=iceCola7&show_icons=true&include_all_commits=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
+  
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceCola7&langs_count=10&layout=compact" /> -->
+  
+</div>
 
 ### Hi 👋
 
